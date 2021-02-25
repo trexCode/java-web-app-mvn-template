@@ -1,0 +1,13 @@
+### Visual Studio Code ###
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+### Visual Studio Code Patch ###
+# Ignore all local history files
+.history
+.ionide
+
+### Target folder ###
+target/*
